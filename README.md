@@ -85,7 +85,6 @@ Here are some visual insights from the analysis:
 ![Churn by Age Group](images/churn_by_age.png)  
 ![Churn by Products](images/churn_by_products.png)  
 
-*(Add your actual chart screenshots in the `/images` folder and update the file names above.)*
 
 ---
 
