@@ -101,6 +101,6 @@ Future work could involve extending this analysis with **Power BI or Python-base
 **Abdulrazak Jubril Iyamah**  
 Professional Diploma in Data Analytics – IDEAS Program, Baze University Abuja  
 
-🔗 [LinkedIn](#) | [GitHub](#)
+🔗 [LinkedIn](www.linkedin.com/in/abdulrazak-jubril) | [Meduim](https://medium.com/@abdulrazakjubril52) | [X](https://x.com/Razak_Jubril)
 
 ---
