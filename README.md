@@ -95,7 +95,7 @@ By implementing targeted retention strategies—such as loyalty programs, locali
 
 Future work could involve extending this analysis with **Power BI or Python-based predictive models** for real-time churn prediction.  
 
-🔗 [Full Anaysis and Report Available Here](#)
+🔗 [Full Anaysis and Report Available Here](bank-customer-churn-analysis/tree/main/full_analysis)
 ---
 
 ## 👤 Author
